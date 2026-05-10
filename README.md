@@ -1,5 +1,5 @@
 # Stroke-Prevalence
-How Do Age and Lifestyle Factors Shape Stroke Occurrence?
+## How Do Age and Lifestyle Factors Shape Stroke Occurrence?
 
 This infographic looks at trends in stroke incidences based on demographic and lifestyle-related
 variables. Age was major variable that was looked at, which demonstrated the most meaningful
